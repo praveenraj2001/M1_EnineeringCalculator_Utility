@@ -1,3 +1,4 @@
 
 #Sololearn Certificae
-![Sololearn Certificate](https://drive.google.com/file/d/1NbNid-inxZcln0Z7HRpJ8HhdY6DPMuUP/view?usp=sharing)
+![Sololearn](https://github.com/praveenraj2001/M1_ProjectGoal_Util
+/blob/0_Certificates/NDG.png?raw=true)
